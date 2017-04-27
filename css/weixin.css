@@ -1,0 +1,47 @@
+.top>.container>p.title{
+  font-size: 25px;
+  font-weight: bold;
+  height:50px;
+  line-height:50px;
+}
+.top,.footer{
+  background: #EEEEEE;
+  min-height:50px;
+}
+.banner-box{
+  overflow:hidden;
+  position: relative;
+  margin-bottom:30px;
+}
+.banner-box img{
+  width:200px;
+  height:100px;
+}
+.banner-box span{
+  display:inline-block;
+  position:absolute;
+  top:74px;
+  left:0;
+  width:200px;
+  height:26px;
+  line-height:26px;
+  background: linear-gradient(to top,#545454,#C3C0BF);
+  color:#fff;
+  font-size:15px;
+  padding-left:10px;
+  opacity:.5;
+}
+.banner-box>h2{
+  margin-left:260px;
+}
+.banner-box>.timer{
+  margin-left:260px;
+  margin-top:20px;
+  font-weight: bold;
+}
+.banner-box>h2:hover a{
+  color: #F23627;
+}
+.banner-box>.items{
+  margin-left:260px;
+}
