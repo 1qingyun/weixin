@@ -45,3 +45,10 @@
 .banner-box>.items{
   margin-left:260px;
 }
+img.erweima{
+	width:150px;
+	height:150px;
+	position:fixed;
+	top:200px;
+	left:0;
+}
