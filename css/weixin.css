@@ -45,10 +45,36 @@
 .banner-box>.items{
   margin-left:260px;
 }
+.erweima-box{
+	position:fixed;
+	top:100px;
+	left:0;
+}
 img.erweima{
 	width:150px;
 	height:150px;
 	position:fixed;
-	top:200px;
+	top:240px;
 	left:0;
+}
+.erweima-box .first{
+	color:#F03427;
+	font-size:25px;
+	font-weight:bold;
+	margin-top:20px;
+	margin-left:20px;
+}
+.erweima-box .second{
+	margin-top:10px;
+	margin-left:5px;
+	font-size:18px;
+	font-weight:bold;
+	color:#333;
+}
+.erweima-box .third{
+	margin-top:10px;
+	margin-left:10px;
+	color:#F03427;
+	font-size:18px;
+	font-weight:bold;
 }
